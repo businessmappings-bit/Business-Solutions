@@ -1,0 +1,6 @@
+{
+  "name": "Aqua Azul Beach",
+  "description": "Balneário premium com chalés, restaurante, bebidas, petiscos e lazer em Sipaliwini, Suriname.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
